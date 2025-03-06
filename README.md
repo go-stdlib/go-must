@@ -3,7 +3,8 @@
 Standard assertions.
 
 ## Dependencies
-None
+
+* [go-stdlib/go-errors](https://github.com/go-stdlib/go-errors)
 
 ## Installation
 ```shell
