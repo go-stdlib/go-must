@@ -1,3 +1,3 @@
 module github.com/go-stdlib/go-must
 
-go 1.23.4
+go 1.24.2
